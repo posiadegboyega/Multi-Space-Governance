@@ -10,6 +10,11 @@ path = 'contracts/dimension-mapping.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.dimensional-merge-split]
+path = 'contracts/dimensional-merge-split.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.interdimensional-consensus]
 path = 'contracts/interdimensional-consensus.clar'
 clarity_version = 2
