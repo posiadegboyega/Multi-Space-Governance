@@ -13,3 +13,5 @@ L
 tests/reality-anchor.test.ts,6/4/64bcdee363ac76248c87cd964711e9e53e6e5a16
 V
 &contracts/dimensional-merge-split.clar,f/1/f1aed7b88dba5af7603cc8d33aa6a046e6575303
+U
+%tests/dimensional-merge-split.test.ts,4/d/4d8f745cb25932795de80a987d5996569cc05020

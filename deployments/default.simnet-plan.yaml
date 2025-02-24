@@ -55,6 +55,11 @@ plan:
             path: contracts/dimension-mapping.clar
             clarity-version: 2
         - emulated-contract-publish:
+            contract-name: dimensional-merge-split
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/dimensional-merge-split.clar
+            clarity-version: 2
+        - emulated-contract-publish:
             contract-name: interdimensional-consensus
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/interdimensional-consensus.clar
