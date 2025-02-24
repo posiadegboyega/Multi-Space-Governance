@@ -7,3 +7,5 @@ O
 tests/dimension-mapping.test.ts,1/b/1b9e85844bba2b6d5a11de6fd6d22028a0af0730
 Y
 )contracts/interdimensional-consensus.clar,3/c/3c7163933d011f2b1a336d234b903b002d55b0db
+M
+contracts/reality-anchor.clar,7/9/7971942802dafbd0017a3286f4797d934dc884b9

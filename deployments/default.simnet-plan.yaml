@@ -54,4 +54,14 @@ plan:
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/dimension-mapping.clar
             clarity-version: 2
+        - emulated-contract-publish:
+            contract-name: interdimensional-consensus
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/interdimensional-consensus.clar
+            clarity-version: 2
+        - emulated-contract-publish:
+            contract-name: reality-anchor
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/reality-anchor.clar
+            clarity-version: 2
       epoch: "2.5"
